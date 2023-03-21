@@ -7,7 +7,7 @@
 #### The website is built with react and can be viewed live at: https://saurabh-project2-mummysrecipe
 
 ### Screenshot
-![image](https://github.com/Saurabhparshar/mummysrecipe/commit/7f5e60b97f2e3bd39081d034ae57a83c48060872)
+![image](https://github.com/Saurabhparshar/mummysrecipe/blob/main/public/media/newkitchen.jpg)
 
 ### Api used
   ``` https://spoonacular.com ```
