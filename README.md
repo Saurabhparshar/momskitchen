@@ -16,8 +16,12 @@
 ## The website is built with react and can be viewed live at:
 https://mommyskitchen.netlify.app
 
+<br>
 
-### Screenshot
+
+<br>
+
+### Screenshot of the project
 
 
 
