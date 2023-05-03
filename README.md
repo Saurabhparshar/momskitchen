@@ -1,4 +1,4 @@
-# Mom's kitchen
+# Mom's kitchen.
 ## The homemade food recipe.
 
 <hr />
