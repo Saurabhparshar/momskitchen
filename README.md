@@ -3,7 +3,7 @@
 
 <br />
 
-### The website is a detailed cook-book to help beginners cook delicious food as our Moms make. It contains different recepies of 4 different categories (Breakfast, Lunch, Snacks ,Dinner:)  .
+### The website is a detailed cook-book to help beginners cook delicious food as our Moms make. It contains different recepies of 4 different categories (Breakfast, Lunch, Snacks ,Dinner:)  
 
 
 
