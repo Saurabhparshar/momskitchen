@@ -1,5 +1,5 @@
 # Mom's kitchen
-## The homemade food recipe book.
+## The homemade food recipe book
 
 <br />
 
